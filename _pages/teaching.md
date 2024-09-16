@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-I am a teaching assistant for [classe préparatoire](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) students.
+I am a teaching assistant for [classe préparatoire](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) students.\
 You can find some of my teaching documents on the following website: *To appear.*
 
 ## 2024-2025
