@@ -6,10 +6,10 @@
 
 main:
   - title: "Projects"
-    url: /publications/
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /cv_EB.pdf
