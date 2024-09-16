@@ -11,10 +11,10 @@ I am a teaching assistant for [classe préparatoire](https://en.wikipedia.org/wi
 You can find some of my teaching documents on the following website: *To appear.*
 
 ## 2024-2025
-### Lycée Louis-Le-Grand, Paris 5^ème^
+### Lycée Louis-Le-Grand, Paris 5<sup>ème</sup>
 Colleur in mathematics for PC\*1 class (second-year bachelor students).
  
-### Lycée Condorcet, Paris 9^ème^
+### Lycée Condorcet, Paris 9<sup>ème</sup>
 Colleur in mathematics for PCSI class (first-year bachelor students).
 
 ## 2023-2024
@@ -22,5 +22,5 @@ Colleur in mathematics for PCSI class (first-year bachelor students).
 Colleur in mathematics for PCSI class (first-year bachelor students).
   
 ## 2022-2023
-### Lycée Saint-Nicolas, Paris 6^ème^
+### Lycée Saint-Nicolas, Paris 6<sup>ème</sup>
 Colleur in mathematics for TSI-1 class (first-year bachelor students).
