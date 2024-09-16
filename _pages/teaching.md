@@ -18,7 +18,7 @@ Colleur in mathematics for PC\*1 class (second-year bachelor students).
 Colleur in mathematics for PCSI class (first-year bachelor students).
 
 ## 2023-2024
-### Lycée Condorcet, Paris 9^ème^
+### Lycée Condorcet, Paris 9<sup>ème</sup>
 Colleur in mathematics for PCSI class (first-year bachelor students).
   
 ## 2022-2023
