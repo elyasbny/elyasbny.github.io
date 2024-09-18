@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a teaching assistant for [classe préparatoire](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) students.\
-You can find some of my teaching documents on the following website: https://kholle.com/
+You can find some of my teaching documents on the following website: [kholle.com](https://kholle.com/)
 ## 2024-2025
 ### Lycée Louis-Le-Grand, Paris 5<sup>ème</sup>
 Colleur in mathematics for PC\*1 class (second-year bachelor students).
