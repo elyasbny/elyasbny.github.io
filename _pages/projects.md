@@ -12,13 +12,13 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
 ## Projects
 
 ### [Automatic Video Segmentation](https://github.com/elyasbny/sam-pt)
-![Automatic Video Segmentation](path_to_image_for_project1.png)
+![Automatic Video Segmentation](https://elyasbenyamina.com/images/AutomaticVideoSegmentation.gif)
 **Description:** Use of co-tracker and SAM-PT to perform Automatic Video Segmentation without user intervention.
 
 ---
 
 ### [Contributions in 3D reconstruction software Meshroom](https://github.com/alicevision/Meshroom)
-![Meshroom Contribution](path_to_image_for_project2.png)
+![Meshroom Contribution](https://elyasbenyamina.com/images/meshroom.png)
 **Description:** Correction of bugs in open source software Meshroom and AliceVision.
 
 ---
