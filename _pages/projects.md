@@ -16,8 +16,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
   <div style="flex: 40%;">
     <img src="https://elyasbenyamina.com/images/AutomaticVideoSegmentation.gif" alt="Automatic Video Segmentation" style="width: 100%; max-width: 500px;">
   </div>
-  <div style="flex: 60%; padding-left: 20px;">
-    <h3><a href="https://github.com/elyasbny/sam-pt">Automatic Video Segmentation</a></h3>
+  <div style="flex: 60%; padding-left: 50px;">
     <p><strong>Description:</strong> Use of co-tracker and SAM-PT to perform Automatic Video Segmentation without user intervention.</p>
   </div>
 </div>
@@ -30,7 +29,6 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <img src="https://elyasbenyamina.com/images/meshroom.png" alt="Meshroom Contribution" style="width: 100%; max-width: 500px;">
   </div>
   <div style="flex: 60%; padding-left: 20px;">
-    <h3><a href="https://github.com/alicevision/Meshroom">Contributions in 3D reconstruction software Meshroom</a></h3>
     <p><strong>Description:</strong> Correction of bugs in open source software Meshroom and AliceVision.</p>
   </div>
 </div>
@@ -43,7 +41,6 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <img src="path_to_image_for_project3.png" alt="Molecule Retrieval" style="width: 100%; max-width: 500px;">
   </div>
   <div style="flex: 60%; padding-left: 20px;">
-    <h3><a href="https://github.com/elyasbny/gnn_moleculeretrieval_nlp/tree/main">Molecule Retrieval with Natural Language Queries</a></h3>
     <p><strong>Description:</strong> Use of co-training framework and contrastive learning to learn similar representations for text and graphs linked to the same molecule. Use of Graph Neural Networks and Large Language Models.</p>
   </div>
 </div>
@@ -56,7 +53,6 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <img src="path_to_image_for_project4.png" alt="Image Classification Challenge" style="width: 100%; max-width: 500px;">
   </div>
   <div style="flex: 60%; padding-left: 20px;">
-    <h3><a href="https://github.com/elyasbny/CKN_from_Scratch">Image Classification Data Challenge 🥇 - Convolutional Kernel Networks</a></h3>
     <p><strong>Description:</strong> Implementation of Convolutional Kernel Network without use of external libraries (except Numpy and Scipy) to classify images. Winning solution of a Kaggle data challenge linked to MVA Course Kernel Methods given by Julien Mairal, Alessandro Rudi, and Michel Arbel.</p>
   </div>
 </div>
@@ -69,7 +65,6 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <img src="path_to_image_for_project5.png" alt="Data Science Project" style="width: 100%; max-width: 500px;">
   </div>
   <div style="flex: 60%; padding-left: 20px;">
-    <h3>Data Science Project - Can you guess the winner?</h3>
     <p><strong>Description:</strong> Project related to Stephane Mallat's course at Collège de France. The goal was to use various complex and noisy data related to soccer matches to develop a model that can predict an outcome of a football match.</p>
     <p><strong>GitHub link:</strong> To appear</p>
   </div>
@@ -83,7 +78,6 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <img src="path_to_image_for_project6.png" alt="Object Recognition" style="width: 100%; max-width: 500px;">
   </div>
   <div style="flex: 60%; padding-left: 20px;">
-    <h3><a href="https://github.com/elyasbny/mva_computervision">Object Recognition and Computer Vision</a></h3>
     <p><strong>Description:</strong> Labs of the course Object Recognition and Computer Vision given by Jean Ponce, Gül Varol, Armand Joulin, Josef Sivic, Ivan Laptev, Cordelia Schmid, and Mathieu Aubry.</p>
     <p><strong>List of labs:</strong></p>
     <ul>
@@ -102,7 +96,6 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <img src="path_to_image_for_project7.png" alt="Deep Learning in Practice" style="width: 100%; max-width: 500px;">
   </div>
   <div style="flex: 60%; padding-left: 20px;">
-    <h3><a href="https://github.com/elyasbny/mva_deeplearning">Deep Learning in Practice</a></h3>
     <p><strong>Description:</strong> Labs of the course Deep Learning in Practice given by Guillaume Charpiat.</p>
     <p><strong>List of labs:</strong></p>
     <ul>
