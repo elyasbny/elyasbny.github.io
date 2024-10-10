@@ -9,7 +9,7 @@ redirect_from:
 
 You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB.pdf) and on my [GitHub](https://github.com/elyasbny).
 
-## Projects
+## Some of my projects
 
 ### [Automatic Video Segmentation](https://github.com/elyasbny/sam-pt)
 <div style="display: flex; align-items: center;">
