@@ -41,7 +41,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <p><strong>Description:</strong> Use of co-training framework and contrastive learning to learn similar representations for text and graphs linked to the same molecule. Use of Graph Neural Networks and Large Language Models.</p>
   </div>
   <div style="flex: 40%;">
-    <img src="path_to_image_for_project3.png" alt="Molecule Retrieval" style="width: 100%; max-width: 500px;">
+    <img src="https://elyasbenyamina.com/images/modelcontrastive.png" alt="Molecule Retrieval" style="width: 100%; max-width: 500px;">
   </div>
 </div>
 
@@ -53,7 +53,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
     <p><strong>Description:</strong> Implementation of Convolutional Kernel Network without use of external libraries (except Numpy and Scipy) to classify images. Winning solution of a Kaggle data challenge linked to MVA Course Kernel Methods given by Julien Mairal, Alessandro Rudi, and Michel Arbel.</p>
   </div>
   <div style="flex: 40%;">
-    <img src="path_to_image_for_project4.png" alt="Image Classification Challenge" style="width: 100%; max-width: 500px;">
+    <img src="https://elyasbenyamina.com/images/CKN.png" alt="Image Classification Challenge" style="width: 100%; max-width: 500px;">
   </div>
 </div>
 
@@ -61,12 +61,11 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
 
 ### Data Science Project - Can you guess the winner?
 <div style="display: flex; align-items: center;">
-  <div style="flex: 60%; padding-right: 50px;">
+  <div style="flex: 100%; padding-right: 50px;">
     <p><strong>Description:</strong> Project related to Stephane Mallat's course at Collège de France. The goal was to use various complex and noisy data related to soccer matches to develop a model that can predict an outcome of a football match.</p>
     <p><strong>GitHub link:</strong> To appear</p>
   </div>
-  <div style="flex: 40%;">
-    <img src="path_to_image_for_project5.png" alt="Data Science Project" style="width: 100%; max-width: 500px;">
+  <div style="flex: 0%;">
   </div>
 </div>
 
@@ -74,7 +73,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
 
 ### [Object Recognition and Computer Vision](https://github.com/elyasbny/mva_computervision)
 <div style="display: flex; align-items: center;">
-  <div style="flex: 60%; padding-right: 50px;">
+  <div style="flex: 100%; padding-right: 50px;">
     <p><strong>Description:</strong> Labs of the course Object Recognition and Computer Vision given by Jean Ponce, Gül Varol, Armand Joulin, Josef Sivic, Ivan Laptev, Cordelia Schmid, and Mathieu Aubry.</p>
     <p><strong>List of labs:</strong></p>
     <ul>
@@ -83,8 +82,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
       <li><strong>Lab 3:</strong> Image Classification Challenge</li>
     </ul>
   </div>
-  <div style="flex: 40%;">
-    <img src="path_to_image_for_project6.png" alt="Object Recognition" style="width: 100%; max-width: 500px;">
+  <div style="flex: 0%;">
   </div>
 </div>
 
@@ -92,7 +90,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
 
 ### [Deep Learning in Practice](https://github.com/elyasbny/mva_deeplearning)
 <div style="display: flex; align-items: center;">
-  <div style="flex: 60%; padding-right: 50px;">
+  <div style="flex: 100%; padding-right: 50px;">
     <p><strong>Description:</strong> Labs of the course Deep Learning in Practice given by Guillaume Charpiat.</p>
     <p><strong>List of labs:</strong></p>
     <ul>
@@ -104,8 +102,7 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
       <li><strong>Lab 6:</strong> Generative modelling in deep learning</li>
     </ul>
   </div>
-  <div style="flex: 40%;">
-    <img src="path_to_image_for_project7.png" alt="Deep Learning in Practice" style="width: 100%; max-width: 500px;">
+  <div style="flex: 0%;">
   </div>
 </div>
 
@@ -113,11 +110,10 @@ You can find more about myself on my [CV](https://elyasbny.github.io/files/CV_EB
 
 ### Time Series
 <div style="display: flex; align-items: center;">
-  <div style="flex: 60%; padding-right: 50px;">
+  <div style="flex: 100%; padding-right: 50px;">
     <p><strong>Description:</strong> To appear</p>
     <p><strong>GitHub link:</strong> No link for the moment</p>
   </div>
-  <div style="flex: 40%;">
-    <img src="path_to_image_for_project8.png" alt="Time Series" style="width: 100%; max-width: 500px;">
+  <div style="flex: 0%;">
   </div>
 </div>
