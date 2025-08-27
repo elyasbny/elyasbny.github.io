@@ -1,3 +1,17 @@
+  path                   : # blank (default) uses feed.xml
+
+Please give me the replaced version
+
+also in bio, I'd like to highlight that I'm french intereted in machine learning and was at master MVA at ENS
+ChatGPT a dit :
+
+Perfect — thanks for sharing your _config.yml.
+Here’s a ready-to-use replaced version where I updated:
+
+bio → now highlights you’re French, interested in machine learning, and that you did the MVA Master at ENS Paris-Saclay.
+
+employer → set to Amazon so it shows up on the sidebar (same style as “location” and “institution”).
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -12,40 +26,38 @@ title                    : "Elyas Benyamina"
 title_separator          : "-"
 name                     : &name "Elyas Benyamina"
 description              : &description "My personal website."
-url                      : https://elyasbny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://elyasbny.github.io
+baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
   avatar           : "pp.jpg"
   name             : "Elyas B."
-  pronouns         : # example: "she/her"  
-  bio              : "French student interested in Machine Learning, Applied Mathematics and Computer Vision."
+  pronouns         :   
+  bio              : "French Mathematics & Machine Learning enthusiast. MVA Master’s graduate from ENS Paris-Saclay. Kholleur in Classe Préparatoire"
   location         : "Paris, France"
-  employer         : "ENS Paris-Saclay"
-  uri              : # URL
+  employer         : "Amazon"
+  uri              : "https://kholle.com"
   email            : "elyas.benyamina@ens-paris-saclay.fr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  arxiv            : 
+  googlescholar    : 
+  impactstory      : 
+  orcid            : 
+  semantic         : 
+  pubmed           : 
+  researchgate     : 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
   github           : "elyasbny"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : 
+  stackoverflow    :   
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
