@@ -1,17 +1,3 @@
-  path                   : # blank (default) uses feed.xml
-
-Please give me the replaced version
-
-also in bio, I'd like to highlight that I'm french intereted in machine learning and was at master MVA at ENS
-ChatGPT a dit :
-
-Perfect — thanks for sharing your _config.yml.
-Here’s a ready-to-use replaced version where I updated:
-
-bio → now highlights you’re French, interested in machine learning, and that you did the MVA Master at ENS Paris-Saclay.
-
-employer → set to Amazon so it shows up on the sidebar (same style as “location” and “institution”).
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
